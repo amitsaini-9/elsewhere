@@ -1,0 +1,32 @@
+[
+  {
+    "name": "hero",
+    "mode": "image",
+    "aspect_ratio": "16:9",
+    "prompt": "A vast cinematic landscape composition of lush emerald rolling coastal hills, a slender serpentine walking path winding from the lower center into the distance, a calm blue sea visible on the far right, soft golden early morning sun and low gauzy mist in the valley. Tiny lone walker with an ochre backpack near the lower middle. Strong visual depth with foreground grasses, rounded middle-distance hills and distant hazy ridge. Upper third softly luminous pale sky. Shot with a 35mm lens from a low aerial perspective. Rich but softly natural color, an invitation to leave the screen. Premium outdoor editorial campaign, natural film photography, very fine grain, beautifully controlled highlights, muted sage greens and warm cream light, authentic natural textures. No text, no logo, no watermark, no UI, no buildings."
+  },
+  {
+    "name": "forest",
+    "mode": "image",
+    "aspect_ratio": "4:5",
+    "prompt": "An intimate editorial photograph looking down a beautiful narrow woodland path into deep lush ferns and tall elegant beech trees. Golden beams of late-afternoon light falling across the empty soft dirt path. Gentle mist and fresh moss. Eye-level 50mm lens, photographic authenticity, no people. A calm nearby woodland rather than enormous wild wilderness. Premium outdoor editorial campaign, natural film photography, very fine grain, beautifully controlled highlights, muted sage greens and warm cream light, authentic natural textures. No text, no logo, no watermark, no UI, no buildings."
+  },
+  {
+    "name": "coast",
+    "mode": "image",
+    "aspect_ratio": "4:5",
+    "prompt": "An editorial landscape photograph of a sunlit chalky coastal cove seen from a grassy footpath above it. Soft azure sea, waves creating delicate white lace, honey-colored beach below, windswept grasses in foreground. A tiny person sitting on the ridge near the path far away. Warm breezy late afternoon. Natural sophisticated color palette, sense of wide open breathing room, 50mm lens. Premium outdoor editorial campaign, natural film photography, very fine grain, beautifully controlled highlights, muted sage greens and warm cream light, authentic natural textures. No text, no logo, no watermark, no UI, no buildings."
+  },
+  {
+    "name": "hills",
+    "mode": "image",
+    "aspect_ratio": "4:5",
+    "prompt": "An editorial photograph of soft green countryside hills in golden evening light. A narrow walking trail runs up through pale wild grasses and tiny white wildflowers toward a rounded hilltop. One small walker in a burnt orange jacket seen from behind at a distance. Peaceful accessible rolling meadow landscape, long soft shadows, pale sky. Shot on 50mm film lens. Premium outdoor editorial campaign, natural film photography, very fine grain, beautifully controlled highlights, muted sage greens and warm cream light, authentic natural textures. No text, no logo, no watermark, no UI, no buildings."
+  },
+  {
+    "name": "hero-film",
+    "mode": "video",
+    "aspect_ratio": "16:9",
+    "prompt": "A slow cinematic aerial drift forward over lush green rounded coastal hills, following a narrow serpentine footpath toward distant misty ridges. Calm blue sea glimpsed on the far right, foreground meadow grasses moving gently in breeze, warm early morning sunlight. Premium outdoor travel editorial film, muted sage and forest greens, realistic cinematic photography, calm contemplative pacing. No cuts, no sudden camera motion, no text, no logos, no music, no talking, no buildings. Wide landscape 16:9. The clip should loop gracefully with nearly static camera and gentle organic motion."
+  }
+]
