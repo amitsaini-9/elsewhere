@@ -3,3 +3,12 @@ node_modules
 .env*
 test-results
 *.tsbuildinfo
+node_modules/
+.next/
+.venv/
+venv/
+__pycache__/
+.env
+.env.*
+*.sqlite*
+*.db
